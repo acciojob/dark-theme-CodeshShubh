@@ -1,6 +1,6 @@
 //your code here
 
-function swapTheme ()=>{
+function swapTheme (){
 	var app = document.getElementById("app");
 	var swap = document.getElementById("swap");
 
